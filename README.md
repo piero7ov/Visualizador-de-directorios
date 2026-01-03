@@ -45,7 +45,6 @@ Permite generar el árbol desde terminal y opcionalmente guardarlo en un archivo
 - En **Linux** puede que necesites:
   ```bash
   sudo apt install python3-tk
-````
 
 ---
 
